@@ -2,7 +2,7 @@
 <body dir="rtl">
 ## MicroTone:attiny13 A/L یه کتابخونه خیلی کم حجم و مفید برای ساختن قطار پالس برای میکرو های
 
-<h1 dir="rtl" align="center">نصب کتابخونه</h1>
+<h2 dir="rtl" align="center">نصب کتابخونه</h2>
 <p align="right" dir = "rtl">این کتابخونه در بخش Library manager آردوینو موجوده همچنین میتونبد این کتابخونه رو از همینجا دانلود کنید و به روش دستی اونو به کتابخونه های آردوینو اضافه کنید.</p>
 
 ## Supported Platforms
