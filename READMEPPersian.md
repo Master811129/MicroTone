@@ -8,7 +8,7 @@ library manager
 ## Supported Platforms
 <p align = "right" dir = "rtl">این کتابخونه فقط از میکرو های Attiny13 A/L و میکرو هایی که زمانسنجشون مثل این میکرو هست پشنیبانی میکنه</p>
 
-## توابع
+<h2 align = "center" dir = "rtl"></h2>
 <p dir="rtl" align="right">این تابع کتابخونه رو راه اندازی میکنه:</p>
 MicroTone.begin();
 
