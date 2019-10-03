@@ -3,15 +3,15 @@
 
 
 
-<h1>Install</h1>
+<h2>Install</h2>
 
 The library can be installed **manually** (by unzipping and copying the files to the "libraries" directory) or using the **Arduino Library installer**, there is nothing to care about.
 
-### Supported Platforms
+<h2>Supported Platforms</h2>
 
 this library was designed ONLY for attiny13A/L MCU
 
-### functions
+<h2>functions</h2>
 
 This function initializes the library
 MicroTone.begin();
