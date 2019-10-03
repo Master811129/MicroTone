@@ -3,7 +3,7 @@
 
 
 
-### Install
+<h1>Install</h1>
 
 The library can be installed **manually** (by unzipping and copying the files to the "libraries" directory) or using the **Arduino Library installer**, there is nothing to care about.
 
