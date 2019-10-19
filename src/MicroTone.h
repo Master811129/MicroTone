@@ -3,7 +3,7 @@
 #ifdef __AVR__
   #include <avr/power.h>
 #endif
-#define Tiny13Tone MicroTone
+
 
 class MicroToneClass
 {
