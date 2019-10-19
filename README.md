@@ -9,7 +9,7 @@ The library can be installed **manually** (by unzipping and copying the files to
 
 <h2>Supported Platforms</h2>
 
-this library was designed ONLY for attiny13A/L MCU
+this library was designed for attiny13A/L and Atmega8/A MCU
 
 <h2>functions</h2>
 
@@ -33,7 +33,7 @@ MicroTone.stop();
 ____________________________________
 
 This function changes the prescaler anytime you want!
-the given value must be from 1 to 5
+the given value must be from 1 to 5 for Attiny13 and 1 to 7 for Atmega8
 
 
 MicroTone.setPrescaler();
