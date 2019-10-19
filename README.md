@@ -1,4 +1,4 @@
-# MicroTone: A high-performance library with super tiny flash usage to create a pulse train on the OCR0A pin on Attiny13
+# MicroTone: A high-performance library with super tiny flash usage to create a pulse train without any CPU load
 
 
 
