@@ -5,7 +5,7 @@
 
 void setup()
 {
-  MicroTone.begin();//if the frequency is too low change give this function a "2" or "1" to fix that!
+  MicroTone.begin();//if the frequency is too low give this function a "2" or "1" to fix that!
 }
 
 void loop()
