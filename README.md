@@ -13,10 +13,11 @@ this library was designed for attiny13A/L and Atmega8/A MCU
 
 <h2>functions</h2>
 
-This function initializes the library
+<p>This function initializes the library</p>
+
 MicroTone.begin();
 
-you can also use the begin function to setting the prescaler (default = 3)
+you can also use the begin function to set the prescaler (default = 3)
 MicroTone.begin();//1-5
 ___________________________________
 
